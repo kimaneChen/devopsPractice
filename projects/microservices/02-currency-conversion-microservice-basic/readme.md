@@ -53,3 +53,5 @@ docker push @@@REPO_NAME@@@/currency-conversion:0.0.1-SNAPSHOT
                 key: CURRENCY_EXCHANGE_URI
                 name: currency-exchange-uri-demo
 ```
+--env 
+CURRENCY_EXCHANGE_SERVICE_HOST=http://currency-exchange
