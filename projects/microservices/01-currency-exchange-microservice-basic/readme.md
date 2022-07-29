@@ -54,4 +54,5 @@ create table exchange_value
 #### Basic
 ```
 docker container run --publish 8000:8000 in28min/currency-exchange:0.0.1-SNAPSHOT
+
 ```
